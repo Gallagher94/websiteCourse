@@ -1,0 +1,28 @@
+Show end result
+Explain basics of web development and then build this page.
+Explain we are cheating with css classes from w3 but later we will build it using our own styles or another project with our own styles.
+
+
+1) BUILD TEMPLATE  - 1.html
+
+2) Build up Header and Footer and body and ending image
+
+3) Build the Photo slide show - body html css styles and javascript needed.
+
+4) The Band Section
+
+5) The Tour Section
+
+6) The Contact Section
+
+7) The Ticket Modal Section
+
+8) Add in nav bar for mobile phone or small screen 
+
+Page should fully work now. 
+
+
+Next projects
+
+https://www.w3schools.com/w3css/w3css_templates.asp
+
